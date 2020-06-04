@@ -9,7 +9,7 @@ export function moviesList()
         ]
     }
 }
-/*
+
 export function artistList()
 {
     return{
@@ -21,4 +21,3 @@ export function artistList()
         ]
     }
 }
-*/
